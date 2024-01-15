@@ -1,7 +1,12 @@
 body{
-    background-color: azure;
+    background-color: rgb(58, 77, 77);
 }
-
+#heading{
+    text-align: center;
+    font-size: 30px;
+    color: darkblue;
+    margin-top: 10px;
+}
 .container{
 position: relative;
 }
